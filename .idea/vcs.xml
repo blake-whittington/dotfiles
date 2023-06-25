@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/d" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/d/dwm_blocks_custom/fontconfig" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/d/dwm_blocks_custom/freetype" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/d/dwm_blocks_custom/freetype/subprojects/dlg" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/d/dwm_blocks_custom/libxft-bgra" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/d/dwm_blocks_custom/xorg-macros" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/d/suckless" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/d/suckless/dmenu" vcs="Git" />
+  </component>
+</project>
